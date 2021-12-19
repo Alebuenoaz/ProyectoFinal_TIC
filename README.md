@@ -23,7 +23,7 @@ Contamos con archivos en formato .json y .csv que tendriamos que manejar para us
 - Pruebas con un subsampling de 100 elementos.
 
 # Preguntas con las que se necesitan ayuda
-- ¿Cual sería el mejor modo de hacer subsampling? Sobretodo para el archivo de 7.78 GB
+- ¿Cual sería el mejor modo de hacer subsampling?
 - ¿Qué algoritmos nos sugiere para el proyecto?
 - ¿Qué otros insights nos recomendaria buscar?
 
