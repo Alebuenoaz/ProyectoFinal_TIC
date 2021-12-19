@@ -39,3 +39,8 @@ Descargar los datasets previamente mencionados:
 
 ## 3. Correr el notebook
 Re compila el kernel y observa los resultados por tu cuenta.
+
+# Autores
+- Pedro Brañez
+- Alejandro Bueno
+- Rodrigo Heredia
