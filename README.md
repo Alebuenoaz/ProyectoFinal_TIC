@@ -35,10 +35,7 @@ Descargar los datasets previamente mencionados:
 
 ## 2. Guardar los datasets
 1. Crear una carpeta llamada "data" en el mismo directorio donde se encuentra el notebook.
-2. Creamos 2 carpetas más dentro de "data" llamadas "movies" y "movies_info"
-2. Descomprimir los datasets.
-3. Guardar los datasets descomprimidos del primer link en las carpetas "data/movies".
-4. Guardar los datasets descomprimidos del segundo link en las carpetas "data/movies_info".
+2. Descomprimir los datasets dentro de esta última.
 
 ## 3. Correr el notebook
 Re compila el kernel y observa los resultados por tu cuenta.
